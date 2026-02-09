@@ -1,0 +1,7 @@
+{
+  "name": "ESTOQUEMARK1",
+  "description": "Uma solução completa para gestão de estoque, guias de transporte, devolução e controle de movimentações com suporte a desktop e mobile.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
